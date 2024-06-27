@@ -1,4 +1,4 @@
-# Simple-Image-Recognition-
+# Simple-Image-Recognition-Entry Level
 Build a simple image recognition system using OpenCV
 
 import cv2
